@@ -1,0 +1,61 @@
+#table {
+    border: 2px solid black;
+    height: 600px;
+}
+
+#table *{
+    position: relative;
+}
+
+[name="foundation"] {
+    border: 2px solid black;
+    height: 500px;
+    margin-top: 10px;
+    width: 74px;
+    float: left;
+
+}
+
+[name="deck"] {
+    border: 1px solid blue;
+    float: right;
+    height: 100px;
+    width: 70px;
+}
+
+
+
+[name="waste"] {
+    border: 1px solid blue;
+    float: right;
+    height: 100px;
+    width: 70px;
+    margin-right: 10px;
+}
+
+[name="tableau"] {
+    right: 30px;
+    border: 1px solid black;
+    height: 300px;
+    width: 750px;
+    float: right;
+    margin-top: 30px;
+}
+
+.containFound {
+    float: top;
+    border: 1px solid red;
+    height: 100px;
+    width: 70px;
+    margin-top: 10px;
+}
+
+.column {
+    float: left;
+    border: 1px solid red;
+    height: 100px;
+    width: 70px;
+    margin-right: 10px;
+}
+
+
